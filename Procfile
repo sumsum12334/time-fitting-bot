@@ -1,1 +1,1 @@
-worker: python time_fit.py
+worker: python3 time_fit.py
