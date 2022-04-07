@@ -31,7 +31,7 @@
   },
   {"tag": "upload",
     "patterns": ["I want to upload the timetable", "uploading a timetable", "submit the timetable", "timetable", "ttb"],
-    "responses": ["Ok, we talk in private message.","Okay,let's talk in pm"],
+    "responses": ["Ok, we talk in direct message.","Okay,let's talk in dm"],
     "context_set": ""
   },
 
